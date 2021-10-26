@@ -1,2 +1,2 @@
 # Table-to-objects
-Transform a HTML table to objects in PHP.
+Transform a HTML table into objects with PHP.
